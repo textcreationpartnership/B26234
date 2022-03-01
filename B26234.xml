@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French Kings declaration of war against the Spaniard.</title>
+            <title> English</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26234</idno>
+            <idno type="STC">Wing L3115AB</idno>
+            <idno type="STC">Interim Tract Supplement Guide 807.g.5.[49]</idno>
+            <idno type="STC">ESTC R232426</idno>
+            <idno type="EEBO-CITATION">99888874</idno>
+            <idno type="PROQUEST">ocm99888874</idno>
+            <idno type="VID">196401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196401)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:3[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French Kings declaration of war against the Spaniard.</title>
+                  <title> English</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of text: By the King.</note>
+                  <note>Dated at end: Given at Versaill's the 15th of April 1689.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  1643-1715 --  Early works to 1800.</term>
+               <term>France --  History, Military --  1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration_of_war">
+            <pb n="1" facs="tcp:196401:1"/>
+            <head>THE French KINGS DECLARATION OF WAR Againſt The SPANIARD.</head>
+            <byline>By The KING.</byline>
+            <p>THe Sincere deſire the King has had to maintain the Truce concluded in the Year 1684. put His Ma<g ref="char:EOLhyphen"/>jeſty upon winking at the Conduct of the <hi>Spaniſh</hi> Mini<g ref="char:EOLhyphen"/>ſters in the Gourts of all the Princes of <hi>Europe,</hi> where their only deſign has been to excite them to take up Arms againſt <hi>France,</hi> and the ſhare they had in the Negotiation of the League of <hi>Ausbourge</hi> was not unknown to His Majeſty. His Majeſty has likewiſe been informed of the intereſt the Governors of the <hi>Spaniſh Netherlands</hi> had in the Prince of <hi>Orange</hi>'s Enterprize againſt <hi>England;</hi> but not believing that his behaviour in that reſpect had been pre<g ref="char:EOLhyphen"/>ſcribed him by the King his Maſter, who by ſo many reaſons, of Religion, Conſanguinity, and the general ſafe<g ref="char:EOLhyphen"/>ty
+<pb n="2" facs="tcp:196401:2"/>of all Kings, found himſelf obliged to oppoſe ſuch an Uſurpation. His Majeſty hoped to be able to bring the moſt Catholick King to joyn with Him in the reeſtabliſh<g ref="char:EOLhyphen"/>ment of the Lawful King of <hi>England,</hi> and for the preſer<g ref="char:EOLhyphen"/>vation of the Catholick Religion againſt the Union of the Proteſtant Princes, or at leaſt to keep an exact neu<g ref="char:EOLhyphen"/>trality in eaſe the poſture of the <hi>Spaniſh</hi> Affairs did not permit the Catholick King to undertake the like En<g ref="char:EOLhyphen"/>gagements. (His Majeſty has to this purpoſe ordered ſe<g ref="char:EOLhyphen"/>veral different propoſals to be made to him ſince <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> laſt, the which were well received whilſt the ſucceſs of the Prince of <hi>Orange</hi>'s Enterprize appeared doubtful. But theſe favourable diſpoſitions vaniſhed, as ſoon as they knew at <hi>Madrid</hi> of the King of <hi>England</hi>'s departure out of His Kingdom, and ſince, they diſcourſed of nothing but of War againſt <hi>France.</hi> His Majeſty at the ſame time underſtood that the <hi>Spaniſh Ambaſſador</hi> in <hi>England</hi> ſaw the Prince of <hi>Orange</hi> daily, and preſſed that the <hi>Engliſh</hi> ſhould declare War againſt <hi>France;</hi> that the Governor of the <hi>Spaniſh Netherlands</hi> raiſed Troops with all diligence, that he promiſed the <hi>States General</hi> to joyn them to theirs in the beginning of the Campaign, and ſollicited them as well as the Prince of <hi>Orange</hi> to march Troops into <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> to put them in a condition of making War upon <hi>France.</hi> All theſe advices having made the King judge, that in prudence he ought to know what to depend upon, He gave order to the <hi>Count de Rebenack</hi> His Ambaſſador at <hi>Madrid,</hi> to demand a poſitive Anſwer from the Moſt Ca<g ref="char:EOLhyphen"/>tholick King's Miniſters, offering Him the continuance of Truce, Provided he wou'd oblige himſelf to an exact Neutralitie not to Succor directly or indirectly the Ene<g ref="char:EOLhyphen"/>mies of His Majeſty. But evil Councels having prevailed, His Majeſty was informed that the Reſolution was taken to favour, the Uſurper of <hi>England,</hi> and to joyn with the <hi>Proteſtant</hi> Princes. His Majeſty was alſo informed much a<g ref="char:EOLhyphen"/>bout the ſame time that the Prince of <hi>Orange</hi> his Agents had received conſiderable Sums at <hi>Cadis</hi> and <hi>Madrid;</hi> That the <hi>Holland</hi> and <hi>Brandenbourgh</hi> Troops, were Entred the Principle places of the <hi>Spaniards</hi> in <hi>Flanders,</hi> and that the <hi>Catholick</hi> King his Governour of the Low <hi>Countries</hi> cauſed the States General to be ſolicited to advance their <hi>Army</hi> to
+<pb n="3" facs="tcp:196401:2"/>the Walls of <hi>Bruxels,</hi> all theſe advices joyned to the an<g ref="char:EOLhyphen"/>ſwer that <hi>compte de Rabenack</hi> had received at <hi>Madrid,</hi> not leaving his Majesty any Room to doubt but that the in<g ref="char:EOLhyphen"/>tention of the <hi>Catholick</hi> King was to joyn his Enemies: His Majesty believed he ought to looſe no time to prevent his evil deſignes and reſolved to Declare <hi>Warr</hi> against him, as well by <hi>Sea</hi> as <hi>Land,</hi> as his Majesty doth by theſe preſents. And to this effect, His Majesty doth order and injoyn all his Subjects, Vaſſels and Servants to Attaque and fall up<g ref="char:EOLhyphen"/>on the <hi>Spaniards,</hi> and most expresſly forbids them to hold hereafter any Communication, Commerce, or Intelligence with them upon pain of death, and to this end his Ma<g ref="char:EOLhyphen"/>jesty from henceforth hath revoked and doth revoke all Permits, Paſports, Safeguards and ſafe Conducts which might have been granted by his Majesty or by his Lieute<g ref="char:EOLhyphen"/>nants Generals, and other his officers contrary to theſe preſents, and hath Declared, and doth Declare them <hi>Null</hi> and of none effect and Force, and forbideth any whatſo<g ref="char:EOLhyphen"/>ever to have any regard for them. And his Majeſty doth Command and ordain the Admiral, the Mariſhals of <hi>France,</hi> Governours and Lieutenants Generals, for his Ma<g ref="char:EOLhyphen"/>jesty in his Provinces and Army's, <hi>Mariſhals</hi> of Gamps, <hi>Col<g ref="char:EOLhyphen"/>lonels, Maſters</hi> of Camps, <hi>Captains,</hi> Chiefs and Leaders of his <hi>Troops,</hi> as well <hi>Horſe</hi> as <hi>Foot, French</hi> and <hi>Strangers,</hi> and all other his officers, whom it may concern; that the con<g ref="char:EOLhyphen"/>tents of theſe preſents they cauſe to be executed within the extent of each of them, his power and juriſdiction; for ſuch is his Majeſties will. And his Majesty willeth and ex<g ref="char:EOLhyphen"/>pecteth that theſe preſents ſhould be publiſhed, and af<g ref="char:EOLhyphen"/>fixed in all his Towns, as well <hi>Maritine</hi> as others, and in all his <hi>Harbours, Ports,</hi> and all other places of his Kingdom, and Countries under his obedience, where need ſhall be, ſo that no body may pretend Ignorance.</p>
+            <closer>
+               <dateline>Given at <hi>Verſaill's</hi> 
+                  <date> the 15th of <hi>April</hi> 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
